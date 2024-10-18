@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\Новая папка (5)\asrorov1\bin\Debug\asrorov1.exe.config
+C:\Users\student\Desktop\Новая папка (5)\asrorov1\bin\Debug\asrorov1.exe
+C:\Users\student\Desktop\Новая папка (5)\asrorov1\bin\Debug\asrorov1.pdb
+C:\Users\student\Desktop\Новая папка (5)\asrorov1\obj\Debug\asrorov1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Новая папка (5)\asrorov1\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Новая папка (5)\asrorov1\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Новая папка (5)\asrorov1\obj\Debug\asrorov1_MarkupCompile.cache
+C:\Users\student\Desktop\Новая папка (5)\asrorov1\obj\Debug\asrorov1_MarkupCompile.lref
+C:\Users\student\Desktop\Новая папка (5)\asrorov1\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Новая папка (5)\asrorov1\obj\Debug\asrorov1.g.resources
+C:\Users\student\Desktop\Новая папка (5)\asrorov1\obj\Debug\asrorov1.Properties.Resources.resources
+C:\Users\student\Desktop\Новая папка (5)\asrorov1\obj\Debug\asrorov1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Новая папка (5)\asrorov1\obj\Debug\asrorov1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Новая папка (5)\asrorov1\obj\Debug\asrorov1.exe
+C:\Users\student\Desktop\Новая папка (5)\asrorov1\obj\Debug\asrorov1.pdb
