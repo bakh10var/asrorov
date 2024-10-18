@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\Новая папка (5)\asrorov\obj\Debug\asrorov.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Новая папка (5)\asrorov\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Новая папка (5)\asrorov\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Новая папка (5)\asrorov\obj\Debug\asrorov_MarkupCompile.cache
+C:\Users\student\Desktop\Новая папка (5)\asrorov\obj\Debug\asrorov_MarkupCompile.lref
+C:\Users\student\Desktop\Новая папка (5)\asrorov\bin\Debug\asrorov.exe.config
+C:\Users\student\Desktop\Новая папка (5)\asrorov\bin\Debug\asrorov.exe
+C:\Users\student\Desktop\Новая папка (5)\asrorov\bin\Debug\asrorov.pdb
+C:\Users\student\Desktop\Новая папка (5)\asrorov\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Новая папка (5)\asrorov\obj\Debug\asrorov.g.resources
+C:\Users\student\Desktop\Новая папка (5)\asrorov\obj\Debug\asrorov.Properties.Resources.resources
+C:\Users\student\Desktop\Новая папка (5)\asrorov\obj\Debug\asrorov.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Новая папка (5)\asrorov\obj\Debug\asrorov.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Новая папка (5)\asrorov\obj\Debug\asrorov.exe
+C:\Users\student\Desktop\Новая папка (5)\asrorov\obj\Debug\asrorov.pdb

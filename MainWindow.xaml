@@ -1,0 +1,32 @@
+﻿<Window x:Class="asrorov.MainWindow" 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:local="clr-namespace:asrorov" 
+        mc:Ignorable="d" 
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DockPanel>
+            <StatusBar DockPanel.Dock="Bottom" Name="statusBar">
+                <TextBlock Name="statusText">Готово</TextBlock>
+            </StatusBar>
+
+            <ToolBar DockPanel.Dock="Top">
+                <Button Content="Изменить цвет фона" Click="ChangeBackgroundColor" ToolTip="Изменить цвет фона окна"/>
+                <Button Content="Информация о разработчике" Click="ShowDeveloperInfo" ToolTip="Информация о разработчике"/>
+                <Button Content="Закрыть" Click="CloseWindow" ToolTip="Закрыть окно"/>
+            </ToolBar>
+
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="Файл">
+                    <MenuItem Header="Изменить цвет фона" Click="ChangeBackgroundColor" ToolTip="Изменить цвет фона окна"/>
+                    <MenuItem Header="Информация о разработчике" Click="ShowDeveloperInfo" ToolTip="Информация о разработчике"/>
+                    <MenuItem Header="Закрыть" Click="CloseWindow" ToolTip="Закрыть окно"/>
+                </MenuItem>
+            </Menu>
+
+            <Grid Background="White" Name="mainGrid"/>
+        </DockPanel>
+    </Grid>
+</Window>
